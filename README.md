@@ -28,7 +28,7 @@ education:
   - MPS, Analytics — Northeastern University (GPA 3.5)
   - B.Com, Business, Finance & Economics — Mithibai College, Mumbai
 experience:  Business & Data Analyst @ FinEdge Analytics (financial analytics firm)
-building:    Battery storage project finance & capacity pricing model 🔋
+built:       Battery storage project finance & capacity pricing model 🔋
 superpower:  Catching discrepancies before they reach an output
 ```
 
@@ -99,7 +99,7 @@ superpower:  Catching discrepancies before they reach an output
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🔋 **Battery Storage Project Finance & Capacity Pricing Model** *(in progress)* | Project finance model for front-of-the-meter battery storage: capex, O&M, degradation and capacity revenue → cash flows; capital stack sized to target DSCR; NPV, project/equity IRR and the capacity price needed to hit a target return | Excel |
+| 🔋 [**Battery Storage Project Finance & Capacity Pricing Model**](https://github.com/Kshama16/battery-storage-project-finance-model) | 400 MW storage + backup generation portfolio: capex, O&M, degradation and capacity revenue → monthly cash flows; senior + mezz debt sculpted to target DSCR; NPV, project/equity IRR, sensitivity tables and the capacity price needed to hit a target return, verified against a Python reference model | Excel · Python |
 | 📉 [**Pricing, Cost Variance & Vendor Delivery Analysis**](https://github.com/Kshama16/Pricing) | Which categories and vendors drive gross-margin changes, and is that tied to vendor delivery performance? | Snowflake SQL · Python · Power BI (DAX) |
 | 🎯 [**Sales Funnel Analysis & Lead Scoring — Set2Close**](https://github.com/Kshama16/ai-sales-funnel-optimization) | Master's capstone: root causes of funnel drop-off and lead scoring, presented to leadership for strategic planning | SQL · Python · Power BI · Tableau |
 | 🔮 [**Customer Churn Prediction Microservice**](https://github.com/Kshama16/churn_microservice) | REST API that scores customer churn risk from behavioral features | Python · FastAPI · scikit-learn |
